@@ -36,4 +36,5 @@ Convolutional Neural Networks (CNNs) are deep learning architectures that excel 
 - **Comparison**: Includes examples to compare the results of HOG and CNN-based methods.
 
 ---
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
