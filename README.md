@@ -16,6 +16,7 @@ Histogram of Oriented Gradients (HOG) is a feature descriptor used in computer v
 - Works well for well-lit and moderately complex images.
 
 ---
+---
 
 ## What is CNN?
 Convolutional Neural Networks (CNNs) are deep learning architectures that excel at image recognition tasks. In this project, the CNN model detects faces with:
